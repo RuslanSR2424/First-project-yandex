@@ -1,0 +1,9 @@
+.__logo-zone {
+    display: flex;
+    width: 1080px;
+    justify-content: center;
+    flex-direction: row;
+    margin: 80px auto 217px auto;
+    height: 38px;
+    align-items: flex-start
+  }

@@ -1,0 +1,9 @@
+.khan__author {
+    font-family: 'Inter-Regular', "Arial", sans-serif;
+    font-size: 30px;
+    line-height: 42px;
+    height: 50px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+  }

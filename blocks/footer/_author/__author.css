@@ -1,0 +1,10 @@
+.footer__author {
+    margin: 200px auto 0px 0px;
+  }
+  
+  .footer__author_text {
+    font-family: 'Inter-Regular', 'Arial', sans-serif;
+    font-size: 18px;
+    line-height: 25px;
+    font-weight: normal;
+  }

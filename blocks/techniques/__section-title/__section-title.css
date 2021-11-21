@@ -1,0 +1,13 @@
+.section-title {
+    font-family: 'Inter-Semibold', 'Arial', sans-serif;
+    font-size: 60px;
+    line-height: 1.15;
+    margin-top: 0px;
+    margin: 100px 20% auto 20%;
+    display: flex;
+    justify-content: center;
+    width: 60%;
+    height: 100px;
+    align-items: center;
+    z-index: 3;
+  }

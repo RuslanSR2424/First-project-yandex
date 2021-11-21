@@ -1,0 +1,12 @@
+.footer__columns-heading {
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    margin: 0px auto 20px auto;
+    font-family: "Inter-Semibold", 'Arial', sans-serif;
+    font-size: 18px;
+    line-height: 18px;
+    font-weight: 600;
+  }
+
+  

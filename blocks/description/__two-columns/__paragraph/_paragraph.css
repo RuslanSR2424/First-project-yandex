@@ -1,0 +1,17 @@
+.__two-columns_paragraph {
+    width: 784px;
+    flex-direction: column;
+    height: 390px;
+  }
+  
+  .__two-columns_paragraph-text:first-of-type {
+    margin-top: 0;
+  }
+  
+  .__two-columns_paragraph-text {
+    font-size: 24px;
+    line-height: 34px;
+    font-family: 'Inter-Regular','Arial', sans-serif;
+    margin-top: 30px;
+  }
+  

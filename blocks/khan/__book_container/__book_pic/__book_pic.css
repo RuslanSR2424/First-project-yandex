@@ -1,0 +1,7 @@
+.khan__book_pic {
+    background-image: url(/First-project-yandex/blocks/khan/__book_container/__book_pic/khan-book.jpg);
+    background-size: cover;
+    width: 620px;
+    height: 608px;
+    background-repeat: no-repeat;
+  }

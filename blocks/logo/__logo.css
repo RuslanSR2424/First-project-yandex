@@ -1,0 +1,10 @@
+.header__logo, .__logo {
+    position: absolute;
+    top: 30px;
+    left: 64px;
+    background-image: url(/First-project-yandex/blocks/logo/logo.svg);
+    background-size: contain;
+    height: 34px;
+    width: 183px;
+    background-repeat: no-repeat;
+  }

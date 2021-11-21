@@ -1,0 +1,13 @@
+.header__subtitle {
+    position: absolute;
+    left: 64px;
+    bottom: 30px;
+    width: 388px;
+  }
+  
+  .header__subtitle-word {
+    font-family: 'Inter-Regular','Arial', sans-serif;
+    font-size: 18px;
+    line-height: 25px;
+    font-weight: normal;
+  }

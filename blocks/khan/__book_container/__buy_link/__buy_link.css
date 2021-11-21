@@ -1,0 +1,10 @@
+.khan__buy_link {
+    font-family: 'Inter-Regular', "Arial", sans-serif;
+    font-size: 30px;
+    line-height: 42px;
+    height: 50px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin-left: 48px;
+  }
